@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Daka/static/css/main.d4f5ec47.css",
-    "main.js": "/Daka/static/js/main.095cb909.js",
+    "main.css": "/Daka/static/css/main.397e3a02.css",
+    "main.js": "/Daka/static/js/main.d2dfcead.js",
     "static/js/787.a9458e41.chunk.js": "/Daka/static/js/787.a9458e41.chunk.js",
     "index.html": "/Daka/index.html",
-    "main.d4f5ec47.css.map": "/Daka/static/css/main.d4f5ec47.css.map",
-    "main.095cb909.js.map": "/Daka/static/js/main.095cb909.js.map",
+    "main.397e3a02.css.map": "/Daka/static/css/main.397e3a02.css.map",
+    "main.d2dfcead.js.map": "/Daka/static/js/main.d2dfcead.js.map",
     "787.a9458e41.chunk.js.map": "/Daka/static/js/787.a9458e41.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4f5ec47.css",
-    "static/js/main.095cb909.js"
+    "static/css/main.397e3a02.css",
+    "static/js/main.d2dfcead.js"
   ]
 }
